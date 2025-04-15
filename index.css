@@ -1,3 +1,25 @@
+body{
+    background-color:bisque;
+    line-height: 1.5;
+    word-wrap: break-word;
+    box-sizing: border-box;
+    max-width: 980px;
+    margin: 2em auto;
+    padding: 0px 30px;
+}
 h1{
-    color:red
+    color:black;
+    font-size: 20px;
+}
+.head1{
+    background-color: orange;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+h2{
+    color:black;
+    font-size: 20px;
 }
