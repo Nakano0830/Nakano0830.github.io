@@ -1,4 +1,5 @@
-header {
+
+header{
     padding: 10px 4% 10px;
     position: sticky;
     top: 0;
@@ -8,6 +9,7 @@ header {
     z-index: 999;
     height: 60px;
 }
+
 .Move_page{
     background-color: white;
     margin: 0;
@@ -17,6 +19,7 @@ header {
     width: 100%;
     top: 0;
 }
+
 .Move_page ul{
     display : flex;
     justify-content: flex-end;
@@ -32,7 +35,7 @@ header {
     padding-left: 0;
 }
 
-nav {
+nav{
     margin: 0 0 0 auto;
 }
 body{
@@ -40,10 +43,12 @@ body{
     padding: 0;
     background-color: gray;
 }
+
 h1{
     color:black;
     font-size: 20px;
 }
+
 .h1_title{
     background-color: orange;
     margin-bottom: 20px;
@@ -61,6 +66,7 @@ h2{
     margin: 10px 10px;
     padding: 0px 30px;
 }
+
 .main_article{
     position: relative;
     background-color: greenyellow ;
@@ -72,27 +78,28 @@ h2{
     padding: 0px 15px;
 }
 
-.main {
+.main{
     background: #2da9af;
     padding: 10px 0 40px 0;
     }
-    .main h2 {
+    .main h2{
     color: white;
     text-align: center;
     margin: 40px 0;
     }
-    .main img {
+    .main img{
     height: 200px;;
     width: 100%;
     }
     
-    .contents {
+    .contents{
     background: white;
     width: 80%;
     margin: 0 auto;
     padding: 5px;
     border-radius: 10px;
     }
-    .contents p {
+
+    .contents p{
     padding-left: 6px;
     }
